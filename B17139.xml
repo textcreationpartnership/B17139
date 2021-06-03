@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a printed paper called The Lord Craven's case.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17139</idno><idno type="EEBO-CITATION">99885507</idno>
+  <idno type="VID">187394</idno>
+  <idno type="EEBO-PROQUEST">2240890602</idno>
+  
+            <idno type="STC">Wing A3337</idno>
+            <idno type="STC">Interim Tract Supplement Guide 516.m.18[97]</idno>
+            <idno type="STC">ESTC R224389</idno>
+            <idno type="PROQUEST">ocm99885507</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885507e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17139)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187394)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:4[97])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a printed paper called The Lord Craven's case.</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Possibly in reply to: The Lord Craven's case, briefly stated.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Craven, William Craven, --  Earl of, 1606-1697 --  Early works to 1800.</term>
+               <term type="uniform_title">Lord Craven's case. --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb n="1" facs="tcp:187394:1"/>
+            <head>An Answer to a Printed Paper called <hi>The Lord</hi> Craven<hi>'s Case.</hi>
+            </head>
+            <p>THe many Reasons offered for Reading the Lord <hi>Craven</hi>'s Petition in order to his relief, whereby the Honour and Justice of the Parliament is endeavoured to be aspersed, and the security of the Purchaser, endeavoured to be weakned, in short are these:</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> That the Resolve of Parliament (<hi>March</hi> 1650) declared that he was an Offender, within an Irish Resolve grounded upon Letters from Sir <hi>Charles Coote,</hi> and that his Estate was confiscate, the same moment the Infor<g ref="char:EOLhyphen"/>mation was read against him.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Without
+<list>
+                  <item>Charge.</item>
+                  <item>Impeachment.</item>
+                  <item>Legall Summons.</item>
+                  <item>Or, Hearing.</item>
+               </list>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Four moneths after Confiscation there was a Resolve in the nature of a Summons dated in <hi>July</hi> 1651. requiring an appearance <hi>Septemper</hi> fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Several Petitions in his behalf read in Parliament before passing the Bill of Sale, offering to prove one <hi>Fawkner</hi> the single witnesse upon which the Confiscation was grounded.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> That <hi>Fawkner</hi> was afterwards convicted of Perjury in the Upper-Bench upon that deposition, and that <hi>Fawkner</hi> was a debauched Person.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> That <hi>Fawkner</hi> since the Conviction, upon his death he confessed himself perjured in that particular, and some Paper to that purpose.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> That the Lord <hi>Craven</hi> hath made several Addresses for relief ever since the long Parliament.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> That most of the Purchasers have had such beneficiall Bargains, as that they have already re-imbursed themselves the purchase money.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> That the last Parliament were pleased to hear the Case at their House, and that it did not take up above an hour and halfes time, and nothing then offered against the Proceeding of the Parliament, but the Journals of Parliament, <hi>Fawkner</hi>'s Conviction and his death-bed Confession.</p>
+            <p>The State of the Lord <hi>Craven</hi>'s Case, of which there hath been so much talk and clamour, fomented by all manner of Persons disaffected to the Government, to the great scandal of the Publique Justice of this Nation, is in short but this: <hi>(viz.)</hi>
+            </p>
+            <p>By an Act of Parliament, the Lord <hi>Craven</hi>'s Estate, <note place="margin">
+                  <hi>August.</hi> 4. 1652.</note> amongst several other Delinquents was exposed to Sale, to satisfie the Publique engage<g ref="char:EOLhyphen"/>ments of this Nation; in pursuance whereof, there was sold as much of his Estate, as the purchase money amounts to almost Two Hundred and Fifty Thousand Pounds, and was conveyed to above Five Hundred Ori<g ref="char:EOLhyphen"/>ginal Purchasers, dispersed in several parts of the Nation, and since con<g ref="char:EOLhyphen"/>veyed to divers other Persons: all which have been in possession ever since. All which Sales are endeavoured to be avoided, upon the Reasons aforementioned of which every one will receive a full and satisfactory Answer.</p>
+            <pb n="2" facs="tcp:187394:2"/>
+            <p>To say that a Resolve of Parliament there was called an Irish Resolve, is grounded upon Letters from Sir <hi>Charles Coote,</hi> the Particulars of these also not appearing, is a bold and confident Assertion, and certainly not true; because it is likewise mentioned, that other Informations were read in against him: it seems so clear an evidence of his delinquency, that it produced that immediate Resolve of the House, so much complained of.</p>
+            <p>As to the second, What Delinquent was there in any of the three Acts that had any Formal Charge, Impeachment, Legall Summons, or Hear<g ref="char:EOLhyphen"/>ing, that appears upon the File in Parliament, against any of them; And yet here it appears by their own shewing, there was both Charge and Informations; and more appears against the Lord <hi>Craven</hi> then against all the Delinquents in the three Acts.</p>
+            <p>It appears by their own third and fourth Reasons, that before the Bill of Sale passed in 1652. there was Summons sent out; which undeniably appears, (by his correspondency with Agents here, and his taking no<g ref="char:EOLhyphen"/>tice of every passage) did come to his knowledge, and several Petitions preferred in his behalf; several long debates in Parliament, betwixt the first Resolve and the Bill, being near two years time, and the most part of that offered before the Bill of Sale, that have or can be offered since.</p>
+            <p>As to the fith and fixth Reasons, all grounded upon false Supposals, that the Confiscation and Bill of Sale, was only grounded upon the de<g ref="char:EOLhyphen"/>positions of <hi>Fawkner:</hi> It is most clearly otherwise, there being no lesse then the Informations of seaven other Persons, <hi>(viz.) Kitchinam, Roley, Benson, Mawbray, Drury, Briscoe</hi> and <hi>Bradsey,</hi> all produced in Par<g ref="char:EOLhyphen"/>liament against him, besides what might be offered by every individuall Member, impossible now to be known. And besides all this, in <hi>May</hi> 1651. there is an Appeal from the Justice of the Parliament made on his behalf, to the States of <hi>Holland,</hi> and sent over hither by our Embassa<g ref="char:EOLhyphen"/>dours then there, and read in Parliament the sixth of <hi>June</hi> 1651. which adds a further Charge: So as to lay all the ground and stresse of the Bill of Sale upon the single Evidence of <hi>Fawkner</hi> only, must needs be a wil<g ref="char:EOLhyphen"/>full mistake, in the Publisher of the Printed Paper.</p>
+            <p>As to the Conviction of <hi>Fawkners</hi> perjury, which was only in the words barbarous and inhumane Rebels, and his Confession since, although admitting it should be true, it hath not such weight in the case, yet how easie it is to convict the truth of perjury by such Witnesses as were then produced against <hi>Fawkner.</hi>
+            </p>
+            <p>By a Jury who seldom had any affectation to such as had purchased De<g ref="char:EOLhyphen"/>linquents Lands, where they had the least latitude of Evidence to find against them, cannot be unknown to any person that hath been much ac<g ref="char:EOLhyphen"/>quainted with businesse this seaven years last past.</p>
+            <p>As to his Confession since his Conviction, if he were such a person as they would render him upon his tryal; It's a wonder they should lay so much weight upon his Confession, since, so as he that was a Devil be<g ref="char:EOLhyphen"/>fore to do them mischief, must now be made a Saint to serve their turns; and whither a long Imprisonment at their mercy, and such continual so<g ref="char:EOLhyphen"/>licitations as he must needs have, when so great an Estate lay at stake, as they thought upon his Testimony only; whether these might not work as much with a necessitous person, as his pretended terror of conscience:
+<pb n="3" facs="tcp:187394:2"/>it certainly may without the least breach of Charity, be fit to be cosidered.</p>
+            <p>The seaventh makes strongly against the receiving any Petition in the Lord <hi>Craven</hi>'s Case; for if there have been so many Addresses to all those several Powers and Parliaments ever since the Bill of Sale, to the great charge and trouble of the Purchasers, and the great disparagement of their Title: And all their Petitions and Addresses have from time to time proved altogether ineffectual. It is certainly a plain Evidence of the unjustnesse and unreasonablenesse of their desires, so that there is no Justice to relieve them.</p>
+            <p>The Eighth is utterly denyed, the Purchasers generally professing, and many of them ready to make it appear, they have not as yet received their very Interest money; and that by reason of the continual claim and pretences that are made by the Lord <hi>Craven</hi> and his Friends, they are altogether disabled, either to sell, Mortgage, settle or dispose of their E<g ref="char:EOLhyphen"/>states, upon such Advantages, and tearms as other men may; so as in truth, they are no such beneficial Purchases as is pretended: However, they having already born the greatest hazards, and furnished the Com<g ref="char:EOLhyphen"/>monwealth with Money, at their greatest Extreamities, do humbly con<g ref="char:EOLhyphen"/>ceive, that it will be thought very reasonable, they should enjoy their Bar<g ref="char:EOLhyphen"/>gains, no defects either natural or accidental, being certainly any way to be alledged to be in the supream Council of the Nation.</p>
+            <p>As to the last, the hearing in the last Parliament, what was done the Purchasers knew not, few of them having notice, and no defence made; but certainly the Lord <hi>Craven</hi> nor his Friends can resonably expect or imagine, that this present Honourable House of Parliament should so lit<g ref="char:EOLhyphen"/>tle Esteem the Acts of their Predecessours, or the Purchasers so slightly neglect their Interests, many of their whole Estates and Portunes de<g ref="char:EOLhyphen"/>pending upon that Title, as to have an Act of Parliament declared to be unjust; and the Purchasers ruined in so short a time, or upon so slen<g ref="char:EOLhyphen"/>der an Evidence, as is intimated by the Printed Paper.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:187394:3"/>
+            <pb facs="tcp:187394:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
